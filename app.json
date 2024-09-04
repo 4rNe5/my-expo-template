@@ -1,12 +1,8 @@
 {
   "expo": {
-    "name": "4rne5-expo-template",
-    "slug": "4rne5-expo-template",
+    "name": "my-expo-template",
+    "slug": "my-expo-template",
     "version": "1.0.0",
-
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
 
     "experiments": {
       "tsconfigPaths": true
