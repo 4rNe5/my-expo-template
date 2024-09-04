@@ -1,0 +1,35 @@
+{
+  "cesVersion": "2.11.17",
+  "projectName": "4rne5-expo-template",
+  "packages": [
+    {
+      "name": "react-navigation",
+      "type": "navigation",
+      "options": {
+        "type": "stack"
+      }
+    },
+    {
+      "name": "stylesheet",
+      "type": "styling"
+    }
+  ],
+  "flags": {
+    "noGit": false,
+    "noInstall": false,
+    "overwrite": false,
+    "importAlias": true,
+    "packageManager": "npm",
+    "eas": false
+  },
+  "packageManager": {
+    "type": "npm",
+    "version": "10.8.2"
+  },
+  "os": {
+    "type": "Darwin",
+    "platform": "darwin",
+    "arch": "arm64",
+    "kernelVersion": "24.0.0"
+  }
+}
